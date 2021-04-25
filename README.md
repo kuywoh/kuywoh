@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuywoh
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Roblox LUA
 - 💞️ I’m looking to collaborate on games
 - 📫 Discord: Kuywoh#1224
 
